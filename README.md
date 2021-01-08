@@ -29,9 +29,9 @@ In 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IRO
 
 ### Planetary sweeps
 
-We regularly conducte planetary-wide measurements with varying length between 1 to 3 days.
+We regularly conduct planetary-wide measurements with varying length between 1 to 3 days.
 Acquisitions are triggered every 3 minutes, parameters differ based on the satellite's GPS position.
-Acquisition times are dynamically set between to values (e.g., 2 seconds and 2 miliseconds) to mitigate particle pileup.
+Acquisition times are dynamically set between to values (e.g., 2 seconds and 2 milliseconds) to mitigate particle pileup.
 
 ```bash
 ./scripts/labelled_maps_plotter.py -d ./data/labelled/planetary_sweeps/all
@@ -122,7 +122,7 @@ Acquisition times are dynamically set between to values (e.g., 2 seconds and 2 m
 
 ### South-Atlantic Anomaly and polar belt scanning
 
-Selective scanning of the SAA and the Polar belts used to be conducted before we were able to conduct planetary-wide sweaps.
+Selective scanning of the SAA and the Polar belts used to be conducted before we were able to conduct planetary-wide sweeps.
 Measurements were pre-planned on exact positions with acquisition time calculated using historic data.
 
 ```bash
@@ -141,12 +141,12 @@ Long acquisitions (10 s, 20 s) above Europe are triggered regularly by the groun
 ### All data
 
 All valid full-resolution data measured by VZLUSAT-1.
-All data are stored [separatedly](https://github.com/vzlusat/vzlusat1-timepix-data/tree/data_all) in compress tar ball.
+All data are stored [separately](https://github.com/vzlusat/vzlusat1-timepix-data/tree/data_all) in compress tar ball.
 Download and unpack them by calling.
 ```bash
 ./data/download_all.sh
 ```
-The data was inspected by hand an any images that contained invalid information (noise, confused sensor, etc) or data of other character than radiation (direc Sun illumination) were removed.
+The data was inspected by hand an any images that contained invalid information (noise, confused sensor, etc) or data of other character than radiation (direct Sun illumination) were removed.
 
 #### All particle types
 
