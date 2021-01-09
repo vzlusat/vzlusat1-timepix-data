@@ -22,8 +22,12 @@ The raw calibrated images are stored in the **raw** subfolders of `data/`.
 Each image consists of three files:
 
 1. `[0-9]+_fullres.txt` contains the 256x256 image matrix, values in each pixel are interpreted as deposited energy in keV.
-2. `[0-9]+_fullres.metadata.txt` contains metadata of the image, e.g., time stamp (UTC), the position, and detector settings.
+2. `[0-9]+_fullres.metadata.txt` contains metadata of the image, e.g., time stamp (UTC), the position, and detector temperature, settings.
 3. `[0-9]+_fullres.txt.dsc` is a metadata file compatible with the `Pixelman` and `Pixet` software used by the [IEAP](http://www.utef.cvut.cz/ieap) and [Advacam](https://advacam.com/).
+
+The data were re-indexed within each folder to the range [1-N] for easier loading.
+However, each image has a unique ID stored in the metadata file.
+Moreover, each data folder should contain the `info.txt` that aggregates the important metadata and provides a convenient map from the image files to the unique image IDs.
 
 ## Labelled data
 
@@ -32,8 +36,12 @@ The data are stored in the **labelled** subfolders of `/data` as cluster lists i
 Each image consists of three files:
 
 1. `[0-9]+_fullres.clusters.txt` contains a cluster list in json format. Each cluster contains a list of its pixels and its morphological class.
-2. `[0-9]+_fullres.metadata.txt` contains metadata of the image, e.g., time stamp (UTC), the position, and detector settings.
+2. `[0-9]+_fullres.metadata.txt` contains metadata of the image, e.g., time stamp (UTC), the position, and detector temperature, settings.
 3. `[0-9]+_fullres.statistics.txt` contains the total counts of each morphological cluster class in the image.
+
+The data were re-indexed within each folder to the range [1-N] for easier loading.
+However, each image has a unique ID stored in the metadata file.
+Moreover, each data folder should contain the `info.txt` that aggregates the important metadata and provides a convenient map from the image files to the unique image IDs.
 
 [Timepix Radiation Detector for Autonomous Radiation Localization and Mapping by Micro Unmanned Vehicles](http://mrs.felk.cvut.cz/data/papers/iros_2019_timepix.pdf)
 ```
