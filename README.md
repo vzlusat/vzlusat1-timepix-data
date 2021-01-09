@@ -1,4 +1,4 @@
-# VZLUSAT-1 Timepix radiation data
+# VZLUSAT-1 Timepix radiation data (2017/07/13 - 2021/01/05)
 
 |                          |                          |
 |--------------------------|--------------------------|
