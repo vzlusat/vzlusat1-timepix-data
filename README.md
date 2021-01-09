@@ -187,7 +187,7 @@ The data was inspected by hand an any images that contained invalid information 
 <summary><b>>> CLICK HERE TO SPLIT TO PARTICLE TYPES <<</b></summary>
 <p>
 
-#### Gamma, X-ray, (weak beta)
+#### Weak beta, Gamma, X-ray
 
 ```bash
 ./data/download_all.sh
@@ -195,7 +195,7 @@ The data was inspected by hand an any images that contained invalid information 
 ```
 ![](./plots/all_data_gamma_weak_beta.png)
 
-#### Ions
+#### Ions, Alpha
 
 ```bash
 ./data/download_all.sh
