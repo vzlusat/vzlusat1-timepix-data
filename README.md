@@ -16,9 +16,24 @@ Miniaturized X-ray telescope for VZLUSAT-1 nanosatellite with Timepix detector,
 Journal of Instrumentation 11(10):C10007, 2016.
 ```
 
-## Labelled data (sessions)
+## Raw data
 
-The data were labelled using a random forest particle track classifier.
+The raw calibrated images are stored in the **raw** subfolders of `data/`.
+Each image consists of three files:
+
+1. `[0-9]+_fullres.txt` contains the 256x256 image matrix, values in each pixel are interpreted as deposited energy in keV.
+2. `[0-9]+_fullres.metadata.txt` contains metadata of the image, e.g., time stamp (UTC), the position, and detector settings.
+3. `[0-9]+_fullres.txt.dsc` is a metadata file compatible with the `Pixelman` and `Pixet` software used by the [IEAP](http://www.utef.cvut.cz/ieap) and [Advacam](https://advacam.com/).
+
+## Labelled data
+
+The data were labelled using a random forest particle track classifier [(Baca et al., 2019)](http://mrs.felk.cvut.cz/data/papers/iros_2019_timepix.pdf).
+The data are stored in the **labelled** subfolders of `/data` as cluster lists in a json format.
+Each image consists of three files:
+
+1. `[0-9]+_fullres.clusters.txt` contains a cluster list in json format. Each cluster contains a list of its pixels and its morphological class.
+2. `[0-9]+_fullres.metadata.txt` contains metadata of the image, e.g., time stamp (UTC), the position, and detector settings.
+3. `[0-9]+_fullres.statistics.txt` contains the total counts of each morphological cluster class in the image.
 
 [Timepix Radiation Detector for Autonomous Radiation Localization and Mapping by Micro Unmanned Vehicles](http://mrs.felk.cvut.cz/data/papers/iros_2019_timepix.pdf)
 ```
