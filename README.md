@@ -283,7 +283,7 @@ Display only a specific class of particle tracks:
 ```
 Images which do not contain the selected class will be skipped. Allowed filter options are: `dot`, `drop`, `track_curly`, `track_lowres`, `track_straight`, `blob_big`, `blob_branched`, `blob_small`, `other`.
 
-Example: show all `drop`-type particles:
+Example: show all `drop`-type particle tracks:
 ```bash
 ./scripts/labelled_image_viewer.py -d ./data/all/labelled --all --filter drop
 ```
