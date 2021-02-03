@@ -6,12 +6,12 @@ import json
 import re
 import numpy as np
 
-from utils import Pixel, Cluster, Metadata
+from data_processing.utils import Pixel, Cluster, Metadata
 
 METADATA_SUFFIX = '.metadata.txt'
 CLUSTERS_SUFFIX = '.clusters.txt'
 STATISTICS_SUFFIX = '.statistics.txt'
-DEFAULT_DATA_DIRECTORY = 'data/labelled/01_2019-09-25'
+DEFAULT_DATA_DIRECTORY = 'data/labelled/above_europe'
 
 class DataLoader:
 

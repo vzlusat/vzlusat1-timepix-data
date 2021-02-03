@@ -218,16 +218,17 @@ The data was inspected by hand an any images that contained invalid information 
 
 ## Prerequisites
 
-To use the data displayer, you will need Python2.7 and the following libraries:
+To use the data displayer, you will need Python3 and the following libraries:
 
 * numpy
 * matplotlib
 * mpltoolkits.basemap
 * tkinter
+* pykrige
 
 ```bash
-sudo apt install python-numpy python-matplotlib python-mpltoolkits.basemap python-tk python-pil.imagetk python-geopy
-pip install pykrige
+sudo apt install python3-numpy python3-matplotlib python3-mpltoolkits.basemap python3-tk python3-pil.imagetk python3-geopy
+pip3 install pykrige
 ```
 
 ## Map plotter

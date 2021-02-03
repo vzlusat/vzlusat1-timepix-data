@@ -1,4 +1,4 @@
-#!/usr/bin/python2
+#!/usr/bin/python3
 
 # fullres_dosimetry.py se poziva aktualne k plotovani
 
@@ -13,7 +13,7 @@ from matplotlib.colors import ListedColormap
 import matplotlib
 import matplotlib.colors as colors
 from scipy.spatial.distance import pdist, squareform, cdist
-from geopy.distance import vincenty, great_circle
+from geopy.distance import great_circle
 from scipy.optimize import curve_fit
 
 import sys
