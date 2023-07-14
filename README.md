@@ -289,14 +289,12 @@ Display help:
 ./scripts/labelled_maps_plotter.py --help
 ```
 
-## Run on a particular folder with labelled data
-
+Run on a particular folder with labelled data
 ```bash
 ./scripts/labelled_maps_plotter.py -d ./data/labelled/saa_and_poles
 ```
 
-## Show map using selected subset of particle types
-
+Show map using selected subset of particle types
 ```bash
 ./scripts/labelled_maps_plotter.py -d ./data/labelled/planetary_sweeps/all --filter "track_straight track_lowres track_curly"
 ```
