@@ -305,7 +305,7 @@ Display help:
 
 Start at a specific file:
 ```bash
-./scripts/labelled_image_browser.py -f ./data/labelled/planetary_sweeps/01_2019-09-25/1_fullres
+./scripts/labelled_image_browser.py -f ./data/labelled/planetary_sweeps/23_2023-01-16/1_fullres
 ```
 
 Provide a specific data directory:
@@ -329,9 +329,9 @@ Display only a specific class of particle tracks:
 ```
 Images which do not contain the selected class will be skipped. Allowed filter options are: `dot`, `drop`, `track_curly`, `track_lowres`, `track_straight`, `blob_big`, `blob_branched`, `blob_small`, `other`.
 
-Example: show all `drop`-type particle tracks:
+Example: show all `track_straight`-type particle tracks within a particular data folder:
 ```bash
-./scripts/labelled_image_browser.py -d ./data/labelled/planetary_sweeps/all --all --filter drop
+./scripts/labelled_image_browser.py -d ./data/labelled/planetary_sweeps/23_2023-01-16 --all --filter track_straight
 ```
 ![](./plots/labelled_image_browser.png)
 
