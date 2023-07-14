@@ -266,17 +266,28 @@ The data were inspected by hand an any images that contained invalid information
 
 # Provided scripts
 
+We provided a set of rudimentary scripts, that can be used to plot and inspect the provided data.
+The scripts are meant to be used as a bases for further development of custom data processing adapters.
+
 ## Prerequisites
 
-To use the attached scripts, you will need to install Python 3.0.
+To execute the attached scripts, Python3 needs to be installed.
 The required Python dependencies are listed in the `requirements.txt` file.
-Prepare the Python virtual environment by running
+Prepare the Python virtual environment (on Linux machine) by running
 ```bash
 ./create_python_env.sh
 ```
-Then, the provided scripts can be called directly.
+Then, the provided scripts can be directly called.
 
 ## Map plotter
+
+Here are example use-cases of the `Map plotter`.
+The `Map plotter` was used to generate the maps within this README.
+
+Display help:
+```bash
+./scripts/labelled_maps_plotter.py --help
+```
 
 ## Run on a particular folder with labelled data
 
@@ -291,12 +302,6 @@ Then, the provided scripts can be called directly.
 ```
 
 ## Image browser
-
-Run in the default configuration:
-
-```bash
-./scripts/labelled_image_browser.py
-```
 
 Display help:
 ```bash
