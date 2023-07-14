@@ -25,6 +25,11 @@ class DataLoader:
             self.data_dir = data_dir
             self.verifyDataDir()
 
+        elif filename is not None:
+
+            self.data_dir = os.path.dirname(filename)
+            self.verifyDataDir()
+
         else:
             self.data_dir = DEFAULT_DATA_DIRECTORY
 

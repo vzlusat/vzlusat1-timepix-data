@@ -293,7 +293,8 @@ if __name__ == '__main__':
         data_directory = None
 
     if args.file is not None and len(args.file) > 0:
-        filename = args.file[0]
+        filename = os.path.basename(args.file[0])
+        data_directory = os.path.dirname(args.file[0])
     else:
         filename = None
 
