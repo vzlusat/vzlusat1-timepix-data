@@ -1,0 +1,157 @@
+[
+{
+  "pos_x": 40,
+  "pos_y": 173,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 6.55
+    }
+  ]
+},
+{
+  "pos_x": 45,
+  "pos_y": 95,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 5.3
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 7.14
+    }
+  ]
+},
+{
+  "pos_x": 74,
+  "pos_y": 156,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 8.56
+    }
+  ]
+},
+{
+  "pos_x": 76,
+  "pos_y": 166,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 3.86
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 4.34
+    }
+  ]
+},
+{
+  "pos_x": 121,
+  "pos_y": 137,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 10.81
+    }
+  ]
+},
+{
+  "pos_x": 154,
+  "pos_y": 193,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 9.91
+    }
+  ]
+},
+{
+  "pos_x": 162,
+  "pos_y": 149,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 7.36
+    }
+  ]
+},
+{
+  "pos_x": 198,
+  "pos_y": 179,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 4.67
+    }
+  ]
+},
+{
+  "pos_x": 250,
+  "pos_y": 162,
+  "cluster_class": {
+    "name": "track_lowres",
+    "cluster_class": 9
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 24.25
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 67.93
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "value": 5.42
+    }
+  ]
+}
+]

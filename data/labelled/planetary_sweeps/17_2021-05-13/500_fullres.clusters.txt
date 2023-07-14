@@ -1,0 +1,162 @@
+[
+{
+  "pos_x": 10,
+  "pos_y": 222,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 15.28
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 4.04
+    }
+  ]
+},
+{
+  "pos_x": 48,
+  "pos_y": 50,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 30.96
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 120.66
+    }
+  ]
+},
+{
+  "pos_x": 96,
+  "pos_y": 15,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 7.56
+    }
+  ]
+},
+{
+  "pos_x": 147,
+  "pos_y": 228,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 6.51
+    }
+  ]
+},
+{
+  "pos_x": 187,
+  "pos_y": 93,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 4.34
+    }
+  ]
+},
+{
+  "pos_x": 195,
+  "pos_y": 9,
+  "cluster_class": {
+    "name": "blob_small",
+    "cluster_class": 2
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 61.27
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 64.31
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 5.93
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 6.08
+    }
+  ]
+},
+{
+  "pos_x": 204,
+  "pos_y": 26,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 4.33
+    }
+  ]
+},
+{
+  "pos_x": 220,
+  "pos_y": 216,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 10.22
+    }
+  ]
+},
+{
+  "pos_x": 248,
+  "pos_y": 189,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 9.04
+    }
+  ]
+}
+]

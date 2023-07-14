@@ -1,0 +1,42 @@
+[
+{
+  "pos_x": 133,
+  "pos_y": 91,
+  "cluster_class": {
+    "name": "track_straight",
+    "cluster_class": 5
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 17.8
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 141.05
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "value": 116.63
+    }
+  ]
+},
+{
+  "pos_x": 175,
+  "pos_y": 145,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 11.39
+    }
+  ]
+}
+]

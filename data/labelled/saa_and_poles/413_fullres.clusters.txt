@@ -1,0 +1,172 @@
+[
+{
+  "pos_x": 24,
+  "pos_y": 209,
+  "cluster_class": {
+    "name": "track_lowres",
+    "cluster_class": 9
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 58.01
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 6.79
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 39.28
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "value": 8.78
+    }
+  ]
+},
+{
+  "pos_x": 26,
+  "pos_y": 65,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 33.25
+    }
+  ]
+},
+{
+  "pos_x": 60,
+  "pos_y": 213,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 9.97
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 6.67
+    }
+  ]
+},
+{
+  "pos_x": 116,
+  "pos_y": 175,
+  "cluster_class": {
+    "name": "blob_small",
+    "cluster_class": 2
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 12.52
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 22.45
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 20.38
+    }
+  ]
+},
+{
+  "pos_x": 126,
+  "pos_y": 90,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 14.64
+    }
+  ]
+},
+{
+  "pos_x": 188,
+  "pos_y": 54,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 5.74
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 6.26
+    }
+  ]
+},
+{
+  "pos_x": 206,
+  "pos_y": 227,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 11.36
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 4.41
+    }
+  ]
+},
+{
+  "pos_x": 220,
+  "pos_y": 181,
+  "cluster_class": {
+    "name": "blob_small",
+    "cluster_class": 2
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 3.84
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 30.14
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 12.48
+    }
+  ]
+}
+]

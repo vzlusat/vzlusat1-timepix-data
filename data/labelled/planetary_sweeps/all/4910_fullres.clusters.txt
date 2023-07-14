@@ -1,0 +1,157 @@
+[
+{
+  "pos_x": 21,
+  "pos_y": 10,
+  "cluster_class": {
+    "name": "blob_small",
+    "cluster_class": 2
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 1,
+      "value": 7.26
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 12.02
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 76.13
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "value": 8.91
+    }
+  ]
+},
+{
+  "pos_x": 80,
+  "pos_y": 199,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 3.63
+    }
+  ]
+},
+{
+  "pos_x": 95,
+  "pos_y": 140,
+  "cluster_class": {
+    "name": "track_lowres",
+    "cluster_class": 9
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 1,
+      "value": 5.07
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 15.18
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "value": 15.18
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "value": 14.59
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "value": 9.7
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "value": 7.35
+    }
+  ]
+},
+{
+  "pos_x": 127,
+  "pos_y": 222,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 4.18
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 4.75
+    }
+  ]
+},
+{
+  "pos_x": 145,
+  "pos_y": 37,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 18.63
+    }
+  ]
+},
+{
+  "pos_x": 158,
+  "pos_y": 209,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 3.07
+    }
+  ]
+},
+{
+  "pos_x": 199,
+  "pos_y": 112,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 9.86
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 12.1
+    }
+  ]
+}
+]

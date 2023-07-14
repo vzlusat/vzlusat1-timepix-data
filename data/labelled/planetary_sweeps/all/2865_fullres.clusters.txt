@@ -1,0 +1,157 @@
+[
+{
+  "pos_x": 93,
+  "pos_y": 238,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 140.13
+    }
+  ]
+},
+{
+  "pos_x": 112,
+  "pos_y": 50,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 126.54
+    }
+  ]
+},
+{
+  "pos_x": 140,
+  "pos_y": 143,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 152.83
+    }
+  ]
+},
+{
+  "pos_x": 203,
+  "pos_y": 243,
+  "cluster_class": {
+    "name": "track_curly",
+    "cluster_class": 6
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 2,
+      "value": 8.27
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 7.91
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "value": 5.52
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "value": 28.2
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "value": 6.4
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "value": 10.95
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "value": 25.61
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "value": 3.76
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "value": 6.53
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "value": 13.19
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "value": 9.91
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "value": 9.52
+    }
+  ]
+},
+{
+  "pos_x": 213,
+  "pos_y": 241,
+  "cluster_class": {
+    "name": "track_lowres",
+    "cluster_class": 9
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 1,
+      "value": 9.24
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 6.88
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "value": 15.55
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "value": 7.22
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "value": 4.72
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "value": 11.14
+    }
+  ]
+}
+]

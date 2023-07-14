@@ -1,0 +1,157 @@
+[
+{
+  "pos_x": 12,
+  "pos_y": 220,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 3.58
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 7.81
+    }
+  ]
+},
+{
+  "pos_x": 12,
+  "pos_y": 242,
+  "cluster_class": {
+    "name": "blob_small",
+    "cluster_class": 2
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 5.24
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 7.12
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 35.32
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 13.24
+    }
+  ]
+},
+{
+  "pos_x": 24,
+  "pos_y": 80,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 10.97
+    }
+  ]
+},
+{
+  "pos_x": 70,
+  "pos_y": 197,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 4.88
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 3.43
+    }
+  ]
+},
+{
+  "pos_x": 84,
+  "pos_y": 96,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 11.04
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 8.2
+    }
+  ]
+},
+{
+  "pos_x": 86,
+  "pos_y": 41,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 9.36
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 8.59
+    }
+  ]
+},
+{
+  "pos_x": 100,
+  "pos_y": 163,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 9.04
+    }
+  ]
+},
+{
+  "pos_x": 152,
+  "pos_y": 154,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 9.9
+    }
+  ]
+}
+]

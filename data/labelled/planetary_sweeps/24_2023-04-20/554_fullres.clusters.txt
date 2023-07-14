@@ -1,0 +1,322 @@
+[
+{
+  "pos_x": 62,
+  "pos_y": 66,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 5.24
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 6.96
+    }
+  ]
+},
+{
+  "pos_x": 67,
+  "pos_y": 145,
+  "cluster_class": {
+    "name": "track_lowres",
+    "cluster_class": 9
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 2,
+      "value": 5.67
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "value": 8.57
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 8.96
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 12.01
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "value": 6.97
+    }
+  ]
+},
+{
+  "pos_x": 68,
+  "pos_y": 87,
+  "cluster_class": {
+    "name": "track_straight",
+    "cluster_class": 5
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 6.96
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 7.99
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "value": 7.87
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "value": 11.01
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "value": 8.68
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "value": 8.52
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "value": 4.41
+    }
+  ]
+},
+{
+  "pos_x": 87,
+  "pos_y": 42,
+  "cluster_class": {
+    "name": "track_lowres",
+    "cluster_class": 9
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 7.3
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 19.02
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "value": 5.85
+    }
+  ]
+},
+{
+  "pos_x": 154,
+  "pos_y": 248,
+  "cluster_class": {
+    "name": "track_curly",
+    "cluster_class": 6
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 9.58
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 8.14
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "value": 6.83
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "value": 4.29
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "value": 9.68
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "value": 12.59
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "value": 7.25
+    }
+  ]
+},
+{
+  "pos_x": 157,
+  "pos_y": 35,
+  "cluster_class": {
+    "name": "track_curly",
+    "cluster_class": 6
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 8.48
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 6.11
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 13.52
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "value": 5.55
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "value": 9.88
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "value": 8.98
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "value": 13.62
+    }
+  ]
+},
+{
+  "pos_x": 217,
+  "pos_y": 121,
+  "cluster_class": {
+    "name": "track_straight",
+    "cluster_class": 5
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 5.84
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 6.63
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "value": 6.63
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "value": 14.71
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "value": 8.36
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "value": 9.46
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "value": 45.51
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "value": 5.91
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "value": 4.44
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "value": 7.86
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "value": 4.63
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "value": 10.91
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "value": 4.1
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "value": 5.87
+    },
+    {
+      "x": 12,
+      "y": 6,
+      "value": 15.18
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "value": 5.81
+    },
+    {
+      "x": 14,
+      "y": 7,
+      "value": 7.63
+    },
+    {
+      "x": 15,
+      "y": 8,
+      "value": 7.51
+    },
+    {
+      "x": 16,
+      "y": 8,
+      "value": 5.57
+    }
+  ]
+}
+]

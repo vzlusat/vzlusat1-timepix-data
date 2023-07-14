@@ -1,0 +1,157 @@
+[
+{
+  "pos_x": 23,
+  "pos_y": 155,
+  "cluster_class": {
+    "name": "blob_small",
+    "cluster_class": 2
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 5.01
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 41.65
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "value": 8.83
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 105.76
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "value": 5.17
+    }
+  ]
+},
+{
+  "pos_x": 90,
+  "pos_y": 230,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 3.73
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 61.89
+    }
+  ]
+},
+{
+  "pos_x": 120,
+  "pos_y": 116,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 16.16
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 23.64
+    }
+  ]
+},
+{
+  "pos_x": 129,
+  "pos_y": 123,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 3.58
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 100.36
+    }
+  ]
+},
+{
+  "pos_x": 150,
+  "pos_y": 159,
+  "cluster_class": {
+    "name": "blob_small",
+    "cluster_class": 2
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 4.22
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 6.35
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 3.52
+    }
+  ]
+},
+{
+  "pos_x": 163,
+  "pos_y": 148,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 7.1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 10.54
+    }
+  ]
+},
+{
+  "pos_x": 185,
+  "pos_y": 147,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 7.28
+    }
+  ]
+}
+]

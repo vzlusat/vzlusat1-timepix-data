@@ -1,0 +1,317 @@
+[
+{
+  "pos_x": 0,
+  "pos_y": 130,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 17.25
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 7.24
+    }
+  ]
+},
+{
+  "pos_x": 8,
+  "pos_y": 77,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 18.56
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 4.52
+    }
+  ]
+},
+{
+  "pos_x": 10,
+  "pos_y": 109,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 7.09
+    }
+  ]
+},
+{
+  "pos_x": 15,
+  "pos_y": 212,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 5.78
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 22.4
+    }
+  ]
+},
+{
+  "pos_x": 31,
+  "pos_y": 153,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 6.78
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 3.72
+    }
+  ]
+},
+{
+  "pos_x": 43,
+  "pos_y": 50,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 8.59
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 7.33
+    }
+  ]
+},
+{
+  "pos_x": 56,
+  "pos_y": 73,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 8.87
+    }
+  ]
+},
+{
+  "pos_x": 75,
+  "pos_y": 211,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 8.28
+    }
+  ]
+},
+{
+  "pos_x": 106,
+  "pos_y": 162,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 8.86
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 5.43
+    }
+  ]
+},
+{
+  "pos_x": 116,
+  "pos_y": 171,
+  "cluster_class": {
+    "name": "blob_small",
+    "cluster_class": 2
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 8.75
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 4.11
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 6.01
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 4.68
+    }
+  ]
+},
+{
+  "pos_x": 125,
+  "pos_y": 31,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 5.78
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 18.08
+    }
+  ]
+},
+{
+  "pos_x": 151,
+  "pos_y": 197,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 20.83
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 19.42
+    }
+  ]
+},
+{
+  "pos_x": 171,
+  "pos_y": 232,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 5.8
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 23.64
+    }
+  ]
+},
+{
+  "pos_x": 213,
+  "pos_y": 22,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 15.7
+    }
+  ]
+},
+{
+  "pos_x": 216,
+  "pos_y": 242,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 9.03
+    }
+  ]
+},
+{
+  "pos_x": 252,
+  "pos_y": 127,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 19.03
+    }
+  ]
+},
+{
+  "pos_x": 255,
+  "pos_y": 150,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 20.73
+    }
+  ]
+}
+]

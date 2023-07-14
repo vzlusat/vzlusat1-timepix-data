@@ -1,0 +1,312 @@
+[
+{
+  "pos_x": 62,
+  "pos_y": 193,
+  "cluster_class": {
+    "name": "track_curly",
+    "cluster_class": 6
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 16.3
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 11.62
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "value": 24.94
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "value": 17.62
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "value": 8.49
+    }
+  ]
+},
+{
+  "pos_x": 71,
+  "pos_y": 5,
+  "cluster_class": {
+    "name": "track_lowres",
+    "cluster_class": 9
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 2,
+      "value": 8.46
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 9.94
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 23.0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "value": 15.97
+    }
+  ]
+},
+{
+  "pos_x": 107,
+  "pos_y": 199,
+  "cluster_class": {
+    "name": "track_curly",
+    "cluster_class": 6
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 11,
+      "value": 6.14
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "value": 15.63
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "value": 4.11
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "value": 11.55
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "value": 11.48
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "value": 4.69
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "value": 18.91
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "value": 11.97
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "value": 9.86
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "value": 8.47
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "value": 23.08
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "value": 15.89
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "value": 44.26
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "value": 90.21
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "value": 10.77
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "value": 4.28
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "value": 9.99
+    }
+  ]
+},
+{
+  "pos_x": 135,
+  "pos_y": 19,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 7.58
+    }
+  ]
+},
+{
+  "pos_x": 201,
+  "pos_y": 178,
+  "cluster_class": {
+    "name": "blob_small",
+    "cluster_class": 2
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 7.57
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 4.0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 4.77
+    }
+  ]
+},
+{
+  "pos_x": 207,
+  "pos_y": 96,
+  "cluster_class": {
+    "name": "track_curly",
+    "cluster_class": 6
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 2,
+      "value": 21.71
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "value": 88.44
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "value": 134.76
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "value": 34.37
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "value": 50.98
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "value": 125.8
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "value": 38.47
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "value": 40.55
+    }
+  ]
+},
+{
+  "pos_x": 210,
+  "pos_y": 229,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 4.94
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 23.65
+    }
+  ]
+},
+{
+  "pos_x": 211,
+  "pos_y": 254,
+  "cluster_class": {
+    "name": "blob_small",
+    "cluster_class": 2
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 13.74
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 56.5
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 5.67
+    }
+  ]
+},
+{
+  "pos_x": 238,
+  "pos_y": 61,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 12.47
+    }
+  ]
+}
+]

@@ -1,0 +1,312 @@
+[
+{
+  "pos_x": 3,
+  "pos_y": 28,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 8.43
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 7.4
+    }
+  ]
+},
+{
+  "pos_x": 17,
+  "pos_y": 175,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 16.55
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 13.46
+    }
+  ]
+},
+{
+  "pos_x": 22,
+  "pos_y": 5,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 25.77
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 6.27
+    }
+  ]
+},
+{
+  "pos_x": 27,
+  "pos_y": 20,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 4.44
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 12.08
+    }
+  ]
+},
+{
+  "pos_x": 38,
+  "pos_y": 95,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 4.56
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 9.1
+    }
+  ]
+},
+{
+  "pos_x": 39,
+  "pos_y": 213,
+  "cluster_class": {
+    "name": "blob_small",
+    "cluster_class": 2
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 7.52
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 8.47
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 4.83
+    }
+  ]
+},
+{
+  "pos_x": 47,
+  "pos_y": 120,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 10.39
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 13.57
+    }
+  ]
+},
+{
+  "pos_x": 72,
+  "pos_y": 204,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 4.58
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 9.68
+    }
+  ]
+},
+{
+  "pos_x": 81,
+  "pos_y": 189,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 36.72
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 3.69
+    }
+  ]
+},
+{
+  "pos_x": 128,
+  "pos_y": 150,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 16.94
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 11.51
+    }
+  ]
+},
+{
+  "pos_x": 145,
+  "pos_y": 243,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 6.11
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 4.57
+    }
+  ]
+},
+{
+  "pos_x": 148,
+  "pos_y": 153,
+  "cluster_class": {
+    "name": "blob_small",
+    "cluster_class": 2
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 5.7
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 31.37
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 4.93
+    }
+  ]
+},
+{
+  "pos_x": 186,
+  "pos_y": 136,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 3.49
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 10.16
+    }
+  ]
+},
+{
+  "pos_x": 196,
+  "pos_y": 160,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 30.19
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 19.21
+    }
+  ]
+},
+{
+  "pos_x": 220,
+  "pos_y": 254,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 5.2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 6.47
+    }
+  ]
+}
+]

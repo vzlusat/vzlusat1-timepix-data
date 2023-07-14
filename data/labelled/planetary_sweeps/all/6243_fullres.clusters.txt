@@ -1,0 +1,47 @@
+[
+{
+  "pos_x": 77,
+  "pos_y": 167,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 4.13
+    }
+  ]
+},
+{
+  "pos_x": 86,
+  "pos_y": 91,
+  "cluster_class": {
+    "name": "blob_small",
+    "cluster_class": 2
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 70.13
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 65.03
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 7.71
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 14.31
+    }
+  ]
+}
+]

@@ -1,0 +1,157 @@
+[
+{
+  "pos_x": 62,
+  "pos_y": 11,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 50.5
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 20.06
+    }
+  ]
+},
+{
+  "pos_x": 95,
+  "pos_y": 250,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 17.14
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 7.54
+    }
+  ]
+},
+{
+  "pos_x": 151,
+  "pos_y": 211,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 14.86
+    }
+  ]
+},
+{
+  "pos_x": 163,
+  "pos_y": 63,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 43.72
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 6.68
+    }
+  ]
+},
+{
+  "pos_x": 176,
+  "pos_y": 55,
+  "cluster_class": {
+    "name": "blob_small",
+    "cluster_class": 2
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 4.2
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 7.45
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 5.92
+    }
+  ]
+},
+{
+  "pos_x": 183,
+  "pos_y": 123,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 11.78
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 5.22
+    }
+  ]
+},
+{
+  "pos_x": 184,
+  "pos_y": 90,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 7.37
+    }
+  ]
+},
+{
+  "pos_x": 199,
+  "pos_y": 227,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 18.34
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 3.96
+    }
+  ]
+}
+]

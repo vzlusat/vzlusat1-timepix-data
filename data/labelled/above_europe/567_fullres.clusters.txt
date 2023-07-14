@@ -1,0 +1,307 @@
+[
+{
+  "pos_x": 1,
+  "pos_y": 4,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 4.72
+    }
+  ]
+},
+{
+  "pos_x": 13,
+  "pos_y": 88,
+  "cluster_class": {
+    "name": "track_lowres",
+    "cluster_class": 9
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 15.56
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 23.12
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "value": 10.45
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "value": 6.23
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "value": 18.77
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "value": 6.79
+    }
+  ]
+},
+{
+  "pos_x": 45,
+  "pos_y": 225,
+  "cluster_class": {
+    "name": "track_straight",
+    "cluster_class": 5
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 11.73
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 10.72
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "value": 11.08
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "value": 10.14
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "value": 12.42
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "value": 12.11
+    }
+  ]
+},
+{
+  "pos_x": 86,
+  "pos_y": 219,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 7.23
+    }
+  ]
+},
+{
+  "pos_x": 113,
+  "pos_y": 78,
+  "cluster_class": {
+    "name": "track_straight",
+    "cluster_class": 5
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 5.07
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 5.51
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 10.87
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "value": 7.75
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "value": 6.44
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "value": 11.98
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "value": 7.48
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "value": 10.47
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "value": 4.42
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "value": 14.5
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "value": 5.58
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "value": 7.09
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "value": 7.53
+    },
+    {
+      "x": 10,
+      "y": 7,
+      "value": 12.83
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "value": 6.89
+    },
+    {
+      "x": 11,
+      "y": 8,
+      "value": 10.39
+    },
+    {
+      "x": 12,
+      "y": 8,
+      "value": 9.18
+    },
+    {
+      "x": 13,
+      "y": 9,
+      "value": 32.22
+    },
+    {
+      "x": 13,
+      "y": 10,
+      "value": 72.37
+    },
+    {
+      "x": 14,
+      "y": 9,
+      "value": 4.45
+    },
+    {
+      "x": 14,
+      "y": 10,
+      "value": 3.94
+    }
+  ]
+},
+{
+  "pos_x": 137,
+  "pos_y": 209,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 8.27
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 58.29
+    }
+  ]
+},
+{
+  "pos_x": 149,
+  "pos_y": 102,
+  "cluster_class": {
+    "name": "blob_small",
+    "cluster_class": 2
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 7.94
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 4.35
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 69.69
+    }
+  ]
+},
+{
+  "pos_x": 252,
+  "pos_y": 145,
+  "cluster_class": {
+    "name": "track_lowres",
+    "cluster_class": 9
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 11.95
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 31.12
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "value": 21.33
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "value": 5.89
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "value": 11.75
+    }
+  ]
+}
+]

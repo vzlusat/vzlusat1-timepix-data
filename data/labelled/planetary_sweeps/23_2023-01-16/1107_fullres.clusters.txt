@@ -1,0 +1,327 @@
+[
+{
+  "pos_x": 73,
+  "pos_y": 34,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 40.51
+    }
+  ]
+},
+{
+  "pos_x": 103,
+  "pos_y": 128,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 7.6
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 5.62
+    }
+  ]
+},
+{
+  "pos_x": 112,
+  "pos_y": 157,
+  "cluster_class": {
+    "name": "blob_small",
+    "cluster_class": 2
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 9.47
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 10.34
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 69.92
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 9.65
+    }
+  ]
+},
+{
+  "pos_x": 135,
+  "pos_y": 204,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 6.34
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 10.64
+    }
+  ]
+},
+{
+  "pos_x": 216,
+  "pos_y": 91,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 22.02
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 14.7
+    }
+  ]
+},
+{
+  "pos_x": 220,
+  "pos_y": 79,
+  "cluster_class": {
+    "name": "track_straight",
+    "cluster_class": 5
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 22,
+      "value": 9.51
+    },
+    {
+      "x": 1,
+      "y": 21,
+      "value": 8.73
+    },
+    {
+      "x": 2,
+      "y": 20,
+      "value": 10.99
+    },
+    {
+      "x": 3,
+      "y": 19,
+      "value": 5.26
+    },
+    {
+      "x": 4,
+      "y": 18,
+      "value": 5.6
+    },
+    {
+      "x": 4,
+      "y": 19,
+      "value": 9.98
+    },
+    {
+      "x": 5,
+      "y": 17,
+      "value": 9.16
+    },
+    {
+      "x": 5,
+      "y": 18,
+      "value": 6.76
+    },
+    {
+      "x": 6,
+      "y": 16,
+      "value": 9.4
+    },
+    {
+      "x": 7,
+      "y": 15,
+      "value": 8.53
+    },
+    {
+      "x": 8,
+      "y": 13,
+      "value": 10.0
+    },
+    {
+      "x": 8,
+      "y": 14,
+      "value": 40.57
+    },
+    {
+      "x": 9,
+      "y": 12,
+      "value": 6.71
+    },
+    {
+      "x": 9,
+      "y": 13,
+      "value": 8.63
+    },
+    {
+      "x": 10,
+      "y": 11,
+      "value": 7.1
+    },
+    {
+      "x": 11,
+      "y": 10,
+      "value": 11.99
+    },
+    {
+      "x": 12,
+      "y": 10,
+      "value": 8.12
+    },
+    {
+      "x": 13,
+      "y": 9,
+      "value": 27.96
+    },
+    {
+      "x": 14,
+      "y": 6,
+      "value": 8.68
+    },
+    {
+      "x": 14,
+      "y": 7,
+      "value": 8.68
+    },
+    {
+      "x": 14,
+      "y": 8,
+      "value": 10.5
+    },
+    {
+      "x": 15,
+      "y": 4,
+      "value": 7.83
+    },
+    {
+      "x": 15,
+      "y": 5,
+      "value": 6.37
+    },
+    {
+      "x": 15,
+      "y": 6,
+      "value": 9.89
+    },
+    {
+      "x": 15,
+      "y": 7,
+      "value": 6.16
+    },
+    {
+      "x": 16,
+      "y": 3,
+      "value": 10.84
+    },
+    {
+      "x": 17,
+      "y": 2,
+      "value": 11.0
+    },
+    {
+      "x": 18,
+      "y": 1,
+      "value": 9.77
+    },
+    {
+      "x": 18,
+      "y": 2,
+      "value": 6.35
+    },
+    {
+      "x": 19,
+      "y": 1,
+      "value": 8.25
+    },
+    {
+      "x": 20,
+      "y": 0,
+      "value": 6.69
+    }
+  ]
+},
+{
+  "pos_x": 227,
+  "pos_y": 228,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 54.9
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 8.94
+    }
+  ]
+},
+{
+  "pos_x": 254,
+  "pos_y": 52,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 8.56
+    }
+  ]
+},
+{
+  "pos_x": 254,
+  "pos_y": 179,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 3.35
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 14.89
+    }
+  ]
+}
+]

@@ -1,0 +1,157 @@
+[
+{
+  "pos_x": 48,
+  "pos_y": 147,
+  "cluster_class": {
+    "name": "track_lowres",
+    "cluster_class": 9
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 1,
+      "value": 8.91
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "value": 8.34
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "value": 12.53
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "value": 8.68
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 18.82
+    }
+  ]
+},
+{
+  "pos_x": 93,
+  "pos_y": 238,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 140.13
+    }
+  ]
+},
+{
+  "pos_x": 99,
+  "pos_y": 99,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 4.33
+    }
+  ]
+},
+{
+  "pos_x": 111,
+  "pos_y": 145,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 5.15
+    }
+  ]
+},
+{
+  "pos_x": 129,
+  "pos_y": 189,
+  "cluster_class": {
+    "name": "blob_small",
+    "cluster_class": 2
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 1,
+      "value": 58.1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 3.2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 135.16
+    }
+  ]
+},
+{
+  "pos_x": 137,
+  "pos_y": 230,
+  "cluster_class": {
+    "name": "blob_small",
+    "cluster_class": 2
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 31.09
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 24.38
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "value": 124.57
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "value": 100.78
+    }
+  ]
+},
+{
+  "pos_x": 190,
+  "pos_y": 20,
+  "cluster_class": {
+    "name": "dot",
+    "cluster_class": 1
+  },
+  "pixels": [
+    {
+      "x": 0,
+      "y": 0,
+      "value": 7.67
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "value": 56.67
+    }
+  ]
+}
+]
