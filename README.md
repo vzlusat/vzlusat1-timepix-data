@@ -218,12 +218,12 @@ Long acquisitions (10 s, 20 s) above Europe are triggered regularly by the groun
 ### All data
 
 All valid full-resolution data measured by VZLUSAT-1.
-All data are stored [separately](https://github.com/vzlusat/vzlusat1-timepix-data/tree/data_all) in compress tar ball.
-Download and unpack them by calling.
+All data are stored separately in compressed tar ball.
+Unpack them by calling.
 ```bash
-./data/download_all.sh
+./data/extract_all.sh
 ```
-The data was inspected by hand an any images that contained invalid information (noise, confused sensor, etc) or data of other character than radiation (direct Sun illumination) were removed.
+The data were inspected by hand an any images that contained invalid information (noise, confused sensor, etc) or data of other character than radiation (direct Sun illumination) were removed.
 
 #### All particle types
 
